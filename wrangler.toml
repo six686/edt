@@ -1,0 +1,9 @@
+name = "edt"
+main = "_worker.js"
+compatibility_date = "2025-07-23"
+keep_vars = true
+
+[[kv_namespaces]]
+binding = "KV"			#kv绑定名默认不可修改
+preview_id = "edt"                                      #kv数据库名字
+id = "09cee4e1e4944a4eb87851174c33a5b2"	#kv数据库id
